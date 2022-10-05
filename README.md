@@ -9,6 +9,8 @@
 - 📫 How to reach me **Discord: Pierre#9505**
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,html,css,js,ts,nodejs,react,py,nginx,redis,raspberrypi,arduino,linux,git,github,docker&perline=50" />
+<a href="https://github.com/pierre0210/pierre0210">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,html,css,js,ts,nodejs,react,py,nginx,redis,raspberrypi,arduino,linux,git,github,docker&perline=50" />
+<a/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pierre0210&" alt="pierre0210" /></p>
