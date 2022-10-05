@@ -8,10 +8,10 @@
 
 - 📫 How to reach me **Discord: Pierre#9505**
 
-<h3 align="left">Languages and Tools:</h3>
 <a href="https://github.com/pierre0210/pierre0210">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,html,css,js,ts,nodejs,react,py,nginx,redis,raspberrypi,arduino,linux,git,github,docker&perline=50" />
-<a/>
-<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pierre0210&count_private=true&show_icons=true&theme=radical](https://github.com/anuraghazra/github-readme-stats)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pierre0210&" alt="pierre0210" /></p>
+</a>
+<br></br>
+<a href="https://github.com/pierre0210/pierre0210">
+  <img src="https://github-readme-stats.vercel.app/api?username=pierre0210&count_private=true&show_icons=true&theme=dark" />
+</a>
