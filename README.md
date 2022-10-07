@@ -13,5 +13,6 @@
 </a>
 <br></br>
 <a href="https://github.com/pierre0210">
-  <img src="https://github-readme-stats.vercel.app/api?username=pierre0210&count_private=true&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pierre0210&count_private=true&show_icons=true&theme=dark" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierre0210&langs_count=5&theme=dark" />
 </a>
