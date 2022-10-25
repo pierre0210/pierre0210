@@ -5,11 +5,11 @@
 <a href="https://github.com/pierre0210" target="blank"><img src="https://img.shields.io/github/followers/pierre0210?style=for-the-badge" alt="pierre0210"/></a>
 </p>
 
-- 🌱 I’m currently learning **Rust, Cyber security**
+- 🌱 I’m currently learning **Rust, Cyber security, React.js**
 
 - 📝 I sometimes write notes on [https://progpierre.com/blog](https://progpierre.com/blog)
 
-- 📫 How to reach me: **Discord:** Pierre#9505 **Email:** <a href="mailto:gamelauncher0210@gmail.com">gamelauncher0210@gmail.com</a>
+- 📫 How to reach me: **Discord:** Pierre#9505 <a href="mailto:gamelauncher0210@gmail.com">**Email**</a>
 
 <a href="https://github.com/pierre0210">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,html,css,js,ts,nodejs,react,py,nginx,redis,raspberrypi,arduino,linux,git,github,docker&perline=50" />
