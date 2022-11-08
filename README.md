@@ -11,6 +11,8 @@
 
 - 📫 How to reach me: **Discord:** Pierre#9505 <a href="mailto:gamelauncher0210@gmail.com">**Email**</a>
 
+- 🔎 Currently working on [My personal website](https://progpierre.com/), DNS sinkhole (private repo) and [NovelAI Bot](https://github.com/pierre0210/NovelAI-bot)
+
 <a href="https://github.com/pierre0210">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,html,css,js,ts,nodejs,react,py,nginx,redis,raspberrypi,arduino,linux,git,github,docker&perline=50" />
 </a>
