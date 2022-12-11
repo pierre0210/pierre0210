@@ -18,6 +18,9 @@
 </a>
 <br></br>
 <a href="https://github.com/pierre0210">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierre0210&langs_count=10&layout=compact&theme=blueberry" />
-  <img src="https://github-readme-stats.vercel.app/api?username=pierre0210&count_private=true&show_icons=true&theme=blueberry" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pierre0210&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pierre0210&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pierre0210&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pierre0210&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pierre0210&theme=github_dark&utcOffset=8" />
 </a>
