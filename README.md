@@ -5,7 +5,7 @@
 <a href="https://github.com/pierre0210" target="blank"><img src="https://img.shields.io/github/followers/pierre0210?style=for-the-badge" alt="pierre0210"/></a>
 </p>
 
-- 🌱 I’m currently learning **Rust, Go, CTF**
+- 🌱 I’m currently learning **Rust, Go, Julia, CTF**
 
 - 📝 I sometimes write notes on [https://progpierre.com/blog](https://progpierre.com/blog)
 
