@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Rust, Go, Julia, CTF**
 
-- 📝 B [https://progpierre.com/blog](https://progpierre.com/blog)
+- 📝 Blog site (still under construction) [https://progpierre.com/blog](https://progpierre.com/blog)
 
 - 📫 How to reach me: **Discord:** Pierre#9505 <a href="mailto:gamelauncher0210@gmail.com">**Email**</a>
 
