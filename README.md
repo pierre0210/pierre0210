@@ -9,7 +9,7 @@
 
 - 📝 Blog site (still under construction) [https://progpierre.com/blog](https://progpierre.com/blog)
 
-- 📫 How to reach me: **Discord:** Pierre#9505 <a href="mailto:gamelauncher0210@gmail.com">**Email**</a>
+- 📫 How to reach me: **Discord:** Pierre#9505 <a href="mailto:gamelauncher0210@gmail.com">**Email**</a> <a rel="me" href="https://g0v.social/@progpierre">Mastodon</a>
 
 - 🔎 Currently working on [**My personal website**](https://progpierre.com/), [**NovelAI Bot**](https://github.com/pierre0210/NovelAI-bot) and **Twitter message board**(private repo)
 
