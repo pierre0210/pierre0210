@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Pierre</h1>
-
+<link href="https://g0v.social/@progpierre" rel="me">
 <p align="left"> 
 <a href="https://twitter.com/pierre_0210" target="blank"><img src="https://img.shields.io/twitter/follow/pierre_0210?logo=twitter&style=for-the-badge" alt="pierre_0210" /></a>
 <a href="https://github.com/pierre0210" target="blank"><img src="https://img.shields.io/github/followers/pierre0210?style=for-the-badge" alt="pierre0210"/></a>
