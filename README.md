@@ -13,7 +13,7 @@
 - 🔎 Currently working on [**My personal website**](https://progpierre.com/), [**NovelAI Bot**](https://github.com/pierre0210/NovelAI-bot), [**Wenku api**](https://github.com/pierre0210/wenku-api)
 
 <a href="https://github.com/pierre0210">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,ts,py,nodejs,express,react,vue,raspberrypi,arduino,linux,git,github,docker&perline=10" />
+  <img src="https://skillicons.dev/icons?i=js,ts,go,py,nodejs,express,react,vue,raspberrypi,arduino,linux,git,github,docker" />
 </a>
 <br></br>
 <a href="https://github.com/pierre0210">
