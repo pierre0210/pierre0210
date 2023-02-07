@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rust, Go, CTF**
 
-- 📝 Blog site (still under construction) [https://progpierre.com/blog](https://progpierre.com/blog)
+- 📝 Blog site (building new version) [https://progpierre.com/blog](https://progpierre.com/blog)
 
 - 📫 How to reach me: **Discord:** Pierre#9505, <a href="mailto:gamelauncher0210@gmail.com">**Email**</a>, <a rel="me" href="https://g0v.social/@progpierre">**Mastodon**</a>
 
