@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **Discord:** Pierre#9505, <a href="mailto:gamelauncher0210@gmail.com">**Email**</a>, <a rel="me" href="https://g0v.social/@progpierre">**Mastodon**</a>
 
-- 🔎 Currently working on [**My personal website**](https://progpierre.com/), [**NovelAI Bot**](https://github.com/pierre0210/NovelAI-bot), [**Wenku api**](https://github.com/pierre0210/wenku-api)
+- 🔎 Currently working on [**Blog**](https://blog.progpierre.com/)
 
 <a href="https://github.com/pierre0210">
   <img src="https://skillicons.dev/icons?i=js,ts,go,py,nodejs,express,react,vue,raspberrypi,arduino,linux,git,github,docker" />
