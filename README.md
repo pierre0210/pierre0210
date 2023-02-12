@@ -7,7 +7,7 @@
 
 - 📝 Blog site (building new version) [https://blog.progpierre.com](https://blog.progpierre.com)
 
-- 📫 How to reach me: **Discord:** Pierre#9505, <a href="mailto:gamelauncher0210@gmail.com">**Email**</a>, <a rel="me" href="https://g0v.social/@progpierre">**Mastodon**</a>
+- 📫 How to reach me: **Discord:** Pierre#9505, <a href="mailto:gamelauncher0210@gmail.com">**Email**</a>, <a href="https://twitter.com/pierre_0210">**Twitter**</a>, <a rel="me" href="https://g0v.social/@progpierre">**Mastodon**</a>
 
 - 🔎 Currently working on [**Blog**](https://blog.progpierre.com/)
 
