@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **Discord:** Pierre#9505, <a href="mailto:gamelauncher0210@gmail.com">**Email**</a>, <a href="https://twitter.com/pierre_0210">**Twitter**</a>, <a rel="me" href="https://g0v.social/@progpierre">**Mastodon**</a>
 
-- 🔎 Currently working on [**Blog**](https://blog.progpierre.com/)
+- 🔎 Currently working on [**Blog**](https://blog.progpierre.com/) and some private projects
 
 <a href="https://github.com/pierre0210">
   <img src="https://skillicons.dev/icons?i=js,ts,go,py,nodejs,express,react,vue,raspberrypi,arduino,linux,git,github,docker" />
