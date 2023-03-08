@@ -12,7 +12,7 @@
 - 🔎 Currently working on [**Blog**](https://blog.progpierre.com/) and some private projects
 
 <a href="https://github.com/pierre0210">
-  <img src="https://skillicons.dev/icons?i=js,ts,go,py,nodejs,express,react,vue,raspberrypi,arduino,linux,git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=js,ts,go,py,nodejs,express,react,raspberrypi,arduino,linux,git,github,docker" />
 </a>
 <br></br>
 <a href="https://github.com/pierre0210">
