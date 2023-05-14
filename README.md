@@ -3,7 +3,7 @@
 <a href="https://github.com/pierre0210" target="blank"><img src="https://img.shields.io/github/followers/pierre0210?style=for-the-badge" alt="pierre0210"/></a>
 </p>
 
-- 🌱 I’m currently learning **Rust, CTF**
+- 🌱 I’m currently learning **Malware analysis, Rust, CTF**
 
 - 📝 Blog site: [https://blog.progpierre.com](https://blog.progpierre.com)
 
