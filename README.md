@@ -13,7 +13,6 @@
 </a>
 <br></br>
 <a href="https://github.com/pierre0210">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pierre0210&theme=solarized_dark" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pierre0210&theme=solarized_dark" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pierre0210&theme=solarized_dark" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pierre0210&theme=solarized_dark" />
