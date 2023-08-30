@@ -4,7 +4,7 @@
 
 - 📝 Blog site: [https://blog.progpierre.com](https://blog.progpierre.com)
 
-- 📫 How to reach me: **Discord:** Pierre#9505, <a href="mailto:gamelauncher0210@gmail.com">**Email**</a>, <a href="https://twitter.com/pierre_0210">**Twitter**</a>
+- 📫 How to reach me: **Discord:** Pierre#9505, <a href="mailto:pierrechiang0210@gmail.com">**Email**</a>, <a href="https://twitter.com/pierre_0210">**Twitter**</a>
 
 - 🔎 Currently working on **BraTS**, **VTOL drone**, **NCU Fresh**
 
