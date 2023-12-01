@@ -6,7 +6,7 @@
 
 - 📫 How to reach me: **Discord:** pierre0210, <a href="mailto:pierrechiang0210@gmail.com">**Email**</a>, <a href="https://twitter.com/pierre_0210">**Twitter**</a>
 
-- 🔎 Currently working on brain tumor segmentation project and practicing ctf
+- 🔎 Currently working on AI security project and practicing ctf
 
 <a href="https://github.com/pierre0210">
   <img src="https://skillicons.dev/icons?i=js,ts,go,py,nodejs,express,react,raspberrypi,arduino,linux,git,github,docker" />
