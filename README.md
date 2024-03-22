@@ -9,7 +9,7 @@
 - 🔎 Currently working on AI security project and practicing ctf
 
 <a href="https://github.com/pierre0210">
-  <img src="https://skillicons.dev/icons?i=js,ts,go,py,nodejs,express,react,raspberrypi,arduino,linux,git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=js,ts,go,py,c,cpp,nodejs,express,react,linux,git,github,docker" />
 </a>
 <br></br>
 <a href="https://github.com/pierre0210">
