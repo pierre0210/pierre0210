@@ -4,7 +4,7 @@
 
 - 📝 Blog site: [https://blog.progpierre.com](https://blog.progpierre.com)
 
-- 📫 How to reach me: **Discord:** pierre0210, <a href="mailto:pierrechiang0210@gmail.com">**Email**</a>, <a href="https://twitter.com/pierre_0210">**Twitter**</a>
+- 📫 How to reach me: **Discord:** pierre0210, <a href="mailto:pierrechiang0210@gmail.com">**Email**</a>, <a href="https://twitter.com/pierre_0210">**Twitter**</a>, <a href="https://ctftime.org/user/153314">**CTFtime**</a>
 
 - 🔎 Currently working on AI security project and practicing ctf
 
